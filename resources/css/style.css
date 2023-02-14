@@ -43,18 +43,18 @@ a {
 	text-decoration: none !important;
 }
 
-	a:hover {
-		color: #787878 !important;
-	}
+a:hover {
+	color: #787878 !important;
+}
 
 p {
 	font-size: 14px;
-	color: #808080;
+	color: #000000;
 }
 
 ul, ol {
 	font-size: 14px;
-	color: #808080;
+	color: #000000;
 }
 
 	ol li {
