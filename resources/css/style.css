@@ -73,7 +73,7 @@ hr {
 	overflow: scroll;
 	height: 100%;
 	width: 100%;
-	background-color: #F5F5F5;
+	background-color: #141414;
 }
 
 .wrapper .inner-wrap {
@@ -82,7 +82,7 @@ hr {
 	height: 100%;
 	padding: 10px 40px;
     margin:0 auto;
-    background-color: #F5F5F5;
+    background-color: #141414;
 }
 
 /*Navbar Wrapper*/
