@@ -15,7 +15,7 @@ body {
 }
 
 h5, h4, h3, h2, h1 {
-	color: #707187;
+	color: black;
 	margin-bottom: 0 !important;
 }
 
@@ -46,17 +46,17 @@ a {
 }
 
 a:hover {
-	color: #707187 !important;
+	color: black !important;
 }
 
 p {
 	font-size: 14px;
-	color: #707187;
+	color: black;
 }
 
 ul, ol {
 	font-size: 14px;
-	color: #707187;
+	color: black;
 }
 
 ol li {
@@ -75,7 +75,7 @@ hr {
 	overflow: scroll;
 	height: 100%;
 	width: 100%;
-	background-color: #080707;
+	background-color: #1b1826;
 }
 
 .wrapper .inner-wrap {
@@ -84,7 +84,7 @@ hr {
 	height: 100%;
 	padding: 10px 40px;
     margin:0 auto;
-    background-color: #080707;
+    background-color: #1b1826;
 }
 
 /*Navbar Wrapper*/
