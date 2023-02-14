@@ -13,7 +13,7 @@ body {
 }
 
 h5, h4, h3, h2, h1 {
-	color: #141414;
+	color: #707187;
 	margin-bottom: 0 !important;
 }
 
@@ -44,17 +44,17 @@ a {
 }
 
 a:hover {
-	color: #201f29 !important;
+	color: #707187 !important;
 }
 
 p {
 	font-size: 14px;
-	color: #808080;
+	color: #707187;
 }
 
 ul, ol {
 	font-size: 14px;
-	color: #808080;
+	color: #707187;
 }
 
 ol li {
@@ -73,7 +73,7 @@ hr {
 	overflow: scroll;
 	height: 100%;
 	width: 100%;
-	background-color: #141414;
+	background-color: #080707;
 }
 
 .wrapper .inner-wrap {
@@ -82,7 +82,7 @@ hr {
 	height: 100%;
 	padding: 10px 40px;
     margin:0 auto;
-    background-color: #141414;
+    background-color: #080707;
 }
 
 /*Navbar Wrapper*/
@@ -147,7 +147,7 @@ hr {
 
 /*Main Content*/
 .main {
-    background-color: black;
+	background-color: #201f29;
 	display: block;
 	overflow: hidden;
 	margin-bottom: 20px;
