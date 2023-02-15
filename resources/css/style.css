@@ -1,5 +1,5 @@
 * {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat";
 }
 
 html {
@@ -37,7 +37,7 @@ h4 {
 }
 
 h5 {
-	font-weight: 800 !important;
+	font-weight: 1200 !important;
 	font-size: 15px !important;
 }
 
@@ -50,7 +50,8 @@ a:hover {
 }
 
 p {
-	font-size: 14px;
+
+	font-size: 12px;
 	color: #000000;
 }
 
@@ -64,8 +65,8 @@ ul, ol {
 	}
 
 hr {
-	margin-top: 4px !important;
-	margin-bottom: 8px !important;
+	margin-top: 2px !important;
+	margin-bottom: 2px !important;
 }
 
 
@@ -153,7 +154,7 @@ hr {
 	display: block;
 	overflow: hidden;
 	margin-bottom: 20px;
-	padding: 26px 50px;
+	padding: 20px 30px;
 }
 
 .content {
@@ -197,7 +198,7 @@ hr {
 
 .profilepic-text {
 	margin-left: 20px;
-	padding-top: 2px;
+	padding-top: 0px;
 }
 
 a.link {
